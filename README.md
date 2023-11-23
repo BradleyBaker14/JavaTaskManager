@@ -5,4 +5,4 @@ The application was created using Apche Java where is links to a a local databas
 
 #Prerequisites
 Apche is installed with a Java SDK
-Orcale Database is installed and all database tables are created. The database code is in the file
+Orcale Database is installed and all database tables are created. The database code will be added as soon as its avaiable to be uploaded to the repository
